@@ -1,3 +1,5 @@
+# Academic Numbering - A Google Docs Add-On
+
 # Version
 1.0.0
 
