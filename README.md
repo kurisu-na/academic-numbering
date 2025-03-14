@@ -24,4 +24,4 @@ This add-on runs client side. No information is collected or shared by this add-
 This software is free and licensed under the Apache 2.0 license.
 
 ## Copyright
-Copyright 2025 Christina Natasha, all rights reservdd.
+Copyright 2025 Christina Natasha, all rights reserved.
