@@ -4,7 +4,7 @@
 
 ## Terms of Service
 
-Last updated: March 17, 2025
+*Last updated: March 17, 2025*
 
 Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using Academic Numbering add-on (the "Service") operated by Christina Natasha ("I", "me", or "my").
 
