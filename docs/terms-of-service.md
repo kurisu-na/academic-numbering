@@ -14,7 +14,7 @@ By accessing or using the Service you agree to be bound by these Terms. If you d
 
 ### Content
 
-Our Service allows you to edit certain text in your Google Docs document™ ("Document"). You are responsible for the Document's contents.
+Our Service allows you to edit certain text in your Google Docs™ document ("Document"). You are responsible for the Document's contents.
 
 ### Links To Other Web Sites
 
