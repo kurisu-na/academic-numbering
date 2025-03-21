@@ -18,7 +18,7 @@ Apart from my modifications, the software still functions pretty much the same w
 To add a Table of Contents, you can use the native TOC function in Google Docs™. You can select which heading level to display at each TOC. For example, the TOC will have Headings 1 to 4, while the List of Figures will have Heading 5 only, and the List of Tables will have Heading 6 only.
 
 ## Privacy Policy
-This add-on runs client side. No information is collected or shared by this add-on. Using this add-on means granting access to the current open Google Docs document and allowing the add-on to look for headings and insert heading numbers.
+This add-on runs client side. No information is collected or shared by this add-on. Using this add-on means granting access to the current open Google Docs™ document and allowing the add-on to look for headings and insert heading numbers.
 
 ## License
 This software is free and licensed under the Apache 2.0 license.
