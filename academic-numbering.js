@@ -1,12 +1,12 @@
 // Written by Christina Natasha from Bret Jordan's code
 // https://github.com/kurisu-na/academic-numbering
-// Version 2
+// Version 1.2.0
 // Last updated 2025-03-14
 // Apache 2.0 license
 
 /**
   * @OnlyCurrentDoc
- */
+  */
 
 function onOpen(e) {
   var ui = DocumentApp.getUi();
