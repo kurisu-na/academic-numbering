@@ -1,7 +1,7 @@
 # Academic Numbering - A Google Docs™ Add-On
 
 ## Version
-1.0.0
+1.2.0
 
 ## Installation
 You can find this add-on at Google Workspace Marketplace under the name "Academic Numbering." The URL will be added later.
