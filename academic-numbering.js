@@ -4,6 +4,10 @@
 // Last updated 2025-03-14
 // Apache 2.0 license
 
+/**
+  * @OnlyCurrentDoc
+ */
+
 function onOpen(e) {
   var ui = DocumentApp.getUi();
   ui.createAddonMenu()
