@@ -1,6 +1,6 @@
 // Written by Christina Natasha from Bret Jordan's code
 // https://github.com/kurisu-na/academic-numbering
-// Version 1.0.0
+// Version 2
 // Last updated 2025-03-14
 // Apache 2.0 license
 
