@@ -4,7 +4,7 @@
 
 ## Terms of Service
 
-*Last updated: March 17, 2025*
+*Last updated: March 27, 2025*
 
 Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using Academic Numbering add-on (the "Service") operated by Christina Natasha ("I", "me", or "my").
 
@@ -14,11 +14,11 @@ By accessing or using the Service you agree to be bound by these Terms. If you d
 
 ### Content
 
-Our Service allows you to edit certain text in your Google Docs™ document ("Document"). You are responsible for the Document's contents.
+My Service allows you to edit certain text in your Google Docs™ document ("Document"). You are responsible for the Document's contents.
 
 ### Links To Other Web Sites
 
-Our Service may contain links to third-party web sites or services that are not owned or controlled by me.
+My Service may contain links to third-party web sites or services that are not owned or controlled by me.
 
 I have no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that I shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.
 
