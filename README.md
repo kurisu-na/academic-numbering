@@ -4,7 +4,7 @@
 1.2.0
 
 ## Installation
-You can find this add-on at Google Workspace Marketplace under the name "Academic Numbering." The URL will be added later.
+You can find this add-on at Google Workspace Marketplace under the name "Academic Numbering." You can access it [here](https://workspace.google.com/marketplace/app/academic_numbering/1020833536296).
 
 ## Description
 Frustrated because Google Docs™ doesn't have figure and table numbering feature yet? Yeah, me too. Thankfully, I was introduced to [Markdown Tools](https://github.com/jordan2175/markdown-tools), made by Bret Jordan.
